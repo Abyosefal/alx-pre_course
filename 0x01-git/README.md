@@ -1,1 +1,1 @@
-This project is al about git.
+This project is al about git
